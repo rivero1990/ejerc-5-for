@@ -1,0 +1,33 @@
+body {
+    display: grid;
+    place-content: center;
+    background-color: black;
+    color: white;
+    
+}
+
+div {
+    border: 3px solid whitesmoke;
+    display: grid;
+    place-content: center;
+    margin-block: 100px;
+    padding: 50px;
+    background-color: rgb(83, 7, 153);
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+input {
+    font-size: larger;
+    margin-top: 10px;
+}
+
+button {
+    font-size: larger; 
+}
+
+select {
+    font-size: larger;
+    margin-top: 10px; 
+}
